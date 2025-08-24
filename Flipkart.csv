@@ -1,4 +1,4 @@
-id,title,Rating,maincateg,platform,actprice1,norating1,noreviews1,star_5f,star_4f,star_3f,star_2f,star_1f,fulfilled1
+id,title,rating,maincateg,platform,actprice1,norating1,noreviews1,star_5f,star_4f,star_3f,star_2f,star_1f,fulfilled1
 2242,Casuals For Men  (Blue),3.8,Men,Flipkart,999,27928,3543,14238,4295,3457,1962,3976,1
 20532,Women Black Flats Sandal,3.9,Women,Flipkart,499,3015,404,1458,657,397,182,321,1
 10648,Women Gold Wedges Sandal,3.9,Women,Flipkart,999,449,52,229,70,71,33,46,1
@@ -5243,3 +5243,4 @@ id,title,Rating,maincateg,platform,actprice1,norating1,noreviews1,star_5f,star_4
 18733,Women Grey Heels Sandal,3.8,Women,Flipkart,999,1280,135,574,290,172,94,150,0
 6162,Womens Casual Comfort Stylish Black High Heel With Silver Strap Flip Flops,3.9,Women,Flipkart,499,4867,574,2384,974,648,328,533,0
 13574,ZAPATOZ Women's Casual PU Leather Sneaker Shoes,3.9,Women,Amazon,749,8,5,28,0,0,0,72,1
+
